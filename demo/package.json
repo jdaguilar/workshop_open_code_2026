@@ -1,0 +1,10 @@
+{
+  "name": "bookmarks-api",
+  "version": "1.0.0",
+  "description": "Demo project for the OpenCode workshop: a tiny bookmarks API with planted bugs",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/"
+  }
+}
