@@ -34,5 +34,5 @@ npx @marp-team/marp-cli slides.md --pdf -o slides.pdf     # needs Chrome/Chromiu
 
 ## Status
 
-Prepared against OpenCode 2.0.26 on macOS. Read the verification table in the runbook before presenting;
-cloud-provider flows could not be tested during preparation.
+Rehearsed live in the TUI on OpenCode 2.0.26 (smoke-tested on 2.1.4), macOS, with a local Ollama model and the
+built-in free cloud models. See the verification table in the runbook; paid-provider `/connect` was not tested.
